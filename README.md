@@ -1,6 +1,6 @@
-# 🐍 Mini-Python-Projects
+# 🐍 Python Snippets Hub
 
-Welcome to **mini-python-projects** — a growing collection of beginner-friendly Python scripts built with 💡 love and ☕ logic.
+Welcome to **python snippets hub** — a growing collection of beginner-friendly Python scripts built with 💡 love and ☕ logic.
 
 This repo is designed to help:
 - Beginners learning Python 👶
